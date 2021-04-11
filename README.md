@@ -1,4 +1,4 @@
-# Zekfad
+# [Zekfad](https://github.com/Zekfad)
 
 ## Stats
 
